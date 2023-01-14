@@ -1,0 +1,41 @@
+* {
+   margin-right: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font: #2b2839;
+}
+
+body{
+   margin: 20px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+}
+.avatar{
+   width: 150px;
+   border: 1px solid black;
+}
+.card {
+   width: 400px;
+   margin-left: auto;
+   margin-right: auto;
+   padding: 20px;
+   display: flex;
+   justify-content: space-around;
+   text-align: center;
+   background-color: #ddebf8;
+   border-bottom:3px solid #3d9ec5;
+   border-left:3px solid #3d9ec5;
+
+}
+  
+
+.blue-border {
+   display: flex;
+   justify-content: space-between;
+ }
+ 
+
+.wrapper {
+   margin-top: auto;
+   margin-bottom: auto;
+}
